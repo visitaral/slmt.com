@@ -1,0 +1,39 @@
+body {
+    background-image: url(styles/imgs/paper.png);
+    background-size: auto;
+    
+}
+
+/* text 1 */
+
+.text-1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'KoHo', sans-serif;
+    font-size: 20px;
+    
+}
+
+.text-1>nav>ul {
+    display: flex;
+    list-style: none;
+}
+
+.text-1>nav>ul>li>a {
+    display: block;
+    padding: 10px;
+    color: black;
+}
+
+.text-1>nav>ul>li>a:hover {
+    color: dimgrey;
+}
+
+/* name */
+
+.nameconteiner {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 31px;
+    text-align: center;
+    list-style: none;
+}

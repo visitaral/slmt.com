@@ -1,0 +1,52 @@
+/* Epl logos */
+
+.epllogo {
+    display: flex;
+}
+    
+#logo01 {
+    max-width: 300px;
+    margin: 40px;
+}
+    
+}
+
+#epllogo1 {
+    max-width: 300px;
+    margin: 40px;
+}
+
+#text01 {
+    font-size: 50px;
+}
+
+/* EPL kits */
+
+#kits01 {
+    max-width: 300px;
+    margin: 40px;
+}
+
+.kits01 {
+    display: flex;
+    
+}
+
+#text02 {
+    font-size: 50px;
+}
+
+/* Laliga */
+
+.kits02 {
+    display: flex;
+}
+
+#laligapng {
+    max-width: 300px;
+    margin: 30px;    
+}
+
+#text03 {
+    font-size: 50px;
+}
